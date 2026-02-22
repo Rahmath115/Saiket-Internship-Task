@@ -1,0 +1,112 @@
+# INTERNSHIP TASK SUBMISSION – README
+
+## Candidate Details
+
+Name: Rahmath Sultana
+Program: Data Analytics Internship
+Project: Customer Churn Analysis using Power BI
+
+---
+
+## 📌 Project Overview
+
+This project focuses on analyzing customer churn behavior using the Telco Customer Churn dataset.
+
+The objective of this analysis is to:
+
+* Identify customer churn patterns
+* Understand factors influencing churn
+* Generate meaningful business insights
+* Build an interactive dashboard for decision-making
+
+Power BI was used for data cleaning, transformation, and visualization.
+
+---
+
+## 📂 Files Included in Submission
+
+The ZIP file contains the following:
+
+* Cleaned Dataset (Excel / CSV)
+* Power BI Dashboard File (.pbix)
+* Measures & Calculations
+* Visual Reports
+* Supporting Outputs
+
+---
+
+## ⚙️ Data Preparation Steps
+
+The dataset was cleaned and prepared using Power BI Power Query.
+
+Key steps performed:
+
+* Handled missing values in Total Charges
+* Converted data types (Tenure, Monthly Charges, etc.)
+* Created derived column: Churn Flag
+* Ensured data consistency
+* Removed null / incorrect entries
+
+---
+
+## 📊 Dashboard Components
+
+The dashboard includes:
+
+* Total Customers KPI
+* Churned Customers KPI
+* Churn Rate %
+* Customer Distribution by Tenure
+* Churn by Payment Method
+* Churn by Internet Service
+* Churn by Contract Type
+* Churn by Dependents
+* Churn by Partner Status
+
+---
+
+## 📈 Key Measures Created
+
+* Total Customers
+* Churned Customers
+* Churn Rate %
+
+These measures were created using DAX to enable KPI-based insights.
+
+---
+
+## 🔍 Key Insights
+
+* Customers with Month-to-Month contracts show higher churn
+* Fiber optic users have higher churn rate
+* Electronic check payment method shows increased churn risk
+* Customers with shorter tenure are more likely to churn
+
+---
+
+## 🛠 Tools Used
+
+* Power BI
+* DAX
+* Power Query
+* Excel Dataset
+
+---
+
+## 🎯 Outcome
+
+An interactive churn analysis dashboard was successfully developed to help identify:
+
+* High-risk customer segments
+* Service-based churn trends
+* Retention improvement areas
+
+---
+
+## ✅ Submission Note
+
+All project files, dashboards, and outputs have been organized and compressed as per submission guidelines.
+
+---
+
+Thank you.
